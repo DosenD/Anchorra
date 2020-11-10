@@ -1,0 +1,156 @@
+/*COLORS//////////////////////////////////////////////////////
+
+black: #000;
+white:#fff;
+body-back: #ffffff;
+wrapper-back: #dfdfdf;
+wrapper-inner-back: #ecebe9;
+inner-back: #f7f7f7;
+
+header-primary: #323e4e;
+header-secondary: #bed4df;
+drop-back: #3d4d62;
+footer-back: #2d3032;
+
+placeholder: #cccccc;
+button-primary: #de3a31;
+
+text-primary: #565353;
+text-secondary: #000000;
+
+
+//fonts
+
+bold: 'Sintony - Bold';*/
+
+.text-center {
+    text-align: center;
+  }
+  
+  .divider-r-sm {
+    margin-right: 8px;
+  }
+
+  .divider-r-md {
+    margin-right: 16px;
+  }
+  
+  .divider-r-lg {
+    margin-right: 32px;
+  }
+  
+  .divider-r-xlg {
+    margin-right: 64px;
+  }
+
+  .divider-l-sm {
+    margin-left: 8px;
+  }
+  
+  .divider-l-md {
+    margin-left: 16px;
+  }
+  
+  .divider-l-lg {
+    margin-left: 32px;
+  }
+  
+  .divider-l-xlg {
+    margin-left: 64px;
+  }
+
+  .divider-t-sm {
+    margin-top: 8px;
+  }
+
+  .divider-t-sm-md {
+    margin-top: 12px;
+  }
+
+  .divider-t-sm {
+    margin-top: 8px;
+  }
+
+  .divider-t-md {
+    margin-top: 16px;
+  }
+  
+  .divider-t-lg {
+    margin-top: 32px;
+  }
+  
+  .divider-t-xlg {
+    margin-top: 64px;
+  }
+
+  .divider-b-sm {
+    margin-bottom: 8px;
+  }
+
+  .divider-b-sm-md {
+    margin-bottom: 12px;
+  }
+
+  .divider-b-md {
+    margin-bottom: 16px;
+  }
+  
+  .divider-b-lg {
+    margin-bottom: 32px;
+  }
+  
+  .divider-b-xlg {
+    margin-bottom: 64px;
+  }
+
+  .sep-t-sm-sm {
+    padding-top: 12px;
+  }
+  
+  .sep-t-sm {
+    padding-top: 16px;
+  }
+
+  .sep-b-sm-sm {
+    padding-bottom: 12px;
+  }
+  
+  .sep-b-sm {
+    padding-bottom: 16px;
+  }
+  
+  .sep-t-md {
+    padding-top: 32px;
+  }
+  
+  .sep-b-md {
+    padding-bottom: 32px;
+  }
+
+  .bor-b-sm {
+    border-bottom: 1px solid #62737c;
+  }
+
+  .bor-b-md {
+    border-bottom: 2px solid transparent;
+  }
+  
+  .invisible {
+    visibility: hidden !important;
+  }
+  
+  .block {
+    display: block !important;
+  }
+  
+  .relative {
+    position: relative;
+  }
+  
+  .fit {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
